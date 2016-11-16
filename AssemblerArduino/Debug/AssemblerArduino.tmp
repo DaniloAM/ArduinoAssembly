@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.1.130\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\Debug\AssemblerArduino.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerArduino.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerArduino.map</FILE>
+  <FILE>AssemblerArduino.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <set_values><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>13</LINE></set_values>
+  <loop><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>17</LINE></loop>
+  <delay><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>26</LINE></delay>
+  <delay_1><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>30</LINE></delay_1>
+  <delay_2><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>34</LINE></delay_2>
+  <delay_3><FILE>D:\Documentos\Atmel Studio\7.0\AssemblerArduino\AssemblerArduino\main.asm</FILE><LINE>38</LINE></delay_3>
+ </LABELS>
+</ASSEMBLER_INFO>

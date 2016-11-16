@@ -1,0 +1,7 @@
+Tools -> Add new Tool
+
+Colocar qualquer nome
+
+Em Command: C:\Arduino\hardware\tools\avr\bin\avrdude.exe (caminho do arvdude.exe)
+Em Arguments -CC:\Arduino\hardware\tools\avr\etc\avrdude.conf -p atmega328p -c arduino -P COM6 -b 115200 -U flash:w:"$(ProjectDir)Debug\$(TargetName).hex:i
+(caminho do avrdude.conf e porta COM do arduino)
